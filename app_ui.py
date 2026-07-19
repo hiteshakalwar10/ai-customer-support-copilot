@@ -6,7 +6,7 @@ st.set_page_config(page_title="AI Customer Support Copilot", page_icon="🤖", l
 st.title("🤖 AI Customer Support Copilot")
 st.caption("Ask a question — answers are grounded in our official documentation.")
 
-@st.cache_resource
+@st.cache_resource(show_spinner="Loading AI Support Assistant...")
 def load_pipeline():
     return build_rag_chain()
 
