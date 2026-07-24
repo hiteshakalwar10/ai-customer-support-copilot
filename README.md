@@ -4,7 +4,7 @@ An AI-powered customer support assistant that answers customer queries using a R
 
 ## What it does
 
-The assistant is built on top of a real-world e-commerce support knowledge base covering returns, cancellations, shipping, the rewards program, warranty, and payments. When a customer asks a question, it retrieves the most relevant chunks from this documentation and generates an answer based only on that context. If a question falls outside the scope of the knowledge base, it says so instead of making something up.
+The assistant is built on top of a real-world e-commerce support knowledge base covering returns, cancellations, shipping, the rewards program, warranty and payments. When a customer asks a question, it retrieves the most relevant chunks from this documentation and generates an answer based only on that context. If a question falls outside the scope of the knowledge base, it says so instead of making something up.
 
 ## Tech stack
 
