@@ -4,7 +4,7 @@ CHROMA_FOLDER = "chroma_db"
 
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
-LLM_MODEL_NAME = "llama-3.1-8b-instant"
+LLM_MODEL_NAME = "openai/gpt-oss-20b"
 TEMPERATURE = 0.2
 
 CHUNK_SIZE = 800
